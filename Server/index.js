@@ -7,7 +7,12 @@ let arr = [1, 2, 3, 4, 4, 5];
 arr.map((i) => {
   console.log(i);
 });
-console.log("Hi I am Arun Kumar!");
+// console.log("Hi I am Arun Kumar!");
 
 
 console.log(getData());
+// process.exit(0)
+// process.exitCode=6
+
+
+

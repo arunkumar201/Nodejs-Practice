@@ -12,4 +12,5 @@ let res=fs.readFileSync('Server/Info.txt');
 // console.log(res1);
 // fs.renameSync('MyNodejs/Bio.txt','MyNodejs/MyBio.txt');
 // fs.unlinkSync('MyNodejs/MyBio.txt');
-fs.rmdirSync('MyNodejs');
+// fs.rmdirSync('MyNodejs');
+// console.log(__filename);
