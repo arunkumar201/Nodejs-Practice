@@ -4,6 +4,8 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "node": "npx nodemon Server/index.js"
+    "node": "npx nodemon Server/index.js",
+    "CoreModule": "npx nodemon Server/Modules/CoreModule.js"
   }
 }
+
